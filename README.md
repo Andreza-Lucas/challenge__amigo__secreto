@@ -14,13 +14,13 @@ Ela foi criado com o objetivo de tornar o sorteio de amigo secreto mais simples 
 
 ⭐ Código do Visual Studio
 
-⭐ Github
+
 
 ## Funcionalidades da Aplicação:
 
 ⭐ Adicionar amigos 
 
-⭐ Sorteio de amigos secretos 
+⭐ Sortear amigos secretos 
 
 ⭐ Atualizar a janela do navegador, para fazer um novo jogo 
 
